@@ -14,12 +14,12 @@ return`
 *│▸* SCRIPT BY
 *│*   Decode Denpa
 *│*   X-Dev Team
-*│*   Yogi PW
+*│*   Alyaa
 *│*   Hexagon
 *│*   Dttaz
 *│*
 *│▸* FEATURE  BY  
-*│*   Decode Denpa
+*│*   Alyaa
 *│*   Fernazer
 *│*   X-Dev Team
 *│*   Resta Gamteng
