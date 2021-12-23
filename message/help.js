@@ -409,7 +409,7 @@ ${week}, ${calender}
 *│*
 *│* • Dittaz
 *│* • Nina Kawai
-*│* • Resta Gamteng :v
+*│* • Alyaa :v
 *│* • Zeeone Ofc
 *│* • Yudha Perdana
 *│* • Yogi PW
