@@ -1,25 +1,25 @@
 exports.teksbanned =["Kaka telah di banned","Maaf kamu sudah di banned","Yahaha udah kena banned mau akses fitur","Mboh karepmu"]
 
 exports.tekscmd =["Command tidak ditemukan","Maaf kak command tidak di temukan","Gak ada","Command tidak tersedia",
-"Apaan tuh ? 🙄",
-"Maap kak ga ada dalam menu ☹️",
-"Yang bener atuh kak ketiknya 🙄",
-"Yang bener nulisnya bambang 🤨",
-"Engga ada kak 🙃",
-"Auah kaka bau","Salah ketik itu kak 😮",
-"Kaka ngetik apasih aku ga ngerti 🥺","Oke kak aku proses yah, proses gundulmu ga ada itu dalam menu 😒",
-"Ngetiknya yang bener dong 😠",
-"Enggak mau 🙁","Enggak ah","Berantem yuk 😤","Berantem yuk maju sini 😠","Aku ga mau jawab 😤",
-"Hmm apa yah ga tau aku 🤤",
-"Ga tau aku kan ikan 😎","😚",
-"Hadehh 😑","Maap kaka yang ganteng aku ga tau 🥺","Maap kaka yang cantik aku ga tau 🥺",
-"Muke lu ke gorengan 🤤","Enggak ketemu kak 🥺",
-"Yo ndak tau kok tanya saya 😅",
-"Macam tak betul budak ni 😑",
-"Ih apasih ga jelas banget kek admin, hehe camda 😅",
-"Waduh apaan tuh kak 🙄","Sedang di proses silakan tunggu 3 jam lagi",
-"Gak ada 🙂","Mana saya tau, sayakan ga tau 🙁","Berhenti jangan mainin aku kak 😥",
-"Waduh klo itu saya tidak bisa 😳","ERROR 😎"]
+"Apaan tuh ? 🗿",
+"Maap kak ga ada dalam menu 🗿",
+"Yang bener atuh kak ketiknya 🗿",
+"Yang bener nulisnya bambang 🗿",
+"Engga ada kak 🗿",
+"Auah kaka bau","Salah ketik itu kak 🗿",
+"Kaka ngetik apasih aku ga ngerti 🗿","Oke kak aku proses yah, proses gundulmu ga ada itu dalam menu 🗿",
+"Ngetiknya yang bener dong 🗿",
+"Enggak mau 🗿","Enggak ah","Berantem yuk 🗿","Berantem yuk maju sini 🗿","Aku ga mau jawab 🗿",
+"Hmm apa yah ga tau aku 🗿",
+"Ga tau aku kan ikan 🗿","🗿",
+"Hadehh 🗿","Maap kaka yang ganteng aku ga tau 🗿","Maap kaka yang cantik aku ga tau 🗿",
+"Muke lu ke gorengan 🗿","Enggak ketemu kak 🗿",
+"Yo ndak tau kok tanya saya 🗿",
+"Macam tak betul budak ni 🗿",
+"Ih apasih ga jelas banget kek admin, hehe camda 🗿",
+"Waduh apaan tuh kak 🗿","Sedang di proses silakan tunggu 1Abad lagi 🗿",
+"Gak ada 🗿","Mana saya tau, sayakan ga tau 🗿","Berhenti jangan mainin aku kak 🗿",
+"Waduh klo itu saya tidak bisa 🗿","ERROR 🗿"]
 
 
 
@@ -28,12 +28,12 @@ exports.teksspam =["Jangan spam om",
 "Jangan spam",
 "Jangan spam ya",
 "Woy jangan spam",
-"Satu satu dong kak jangan kroyokan ☹️",
-"Bentar dulu kak gantian ☹️",
-"Tunggu yang laen selesai dulu kak 🙄",
-"Satu satu kak jangan kroyokan aku bukan babu disini 😥","Bentar bentar 🤧",
-"Nyenyenye  😜🤣",
-"Sabar dulu ya kak, yang sabar di sayang janda 🤤"]
+"Satu satu dong kak jangan kroyokan 🗿",
+"Bentar dulu kak gantian 🗿",
+"Tunggu yang laen selesai dulu kak 🗿",
+"Satu satu kak jangan kroyokan aku bukan babu disini 🗿","Bentar bentar 🗿",
+"Nyenyenye  😜🗿",
+"Sabar dulu ya kak, yang sabar di sayang janda 🗿"]
 
 
 
@@ -169,7 +169,7 @@ exports.ngebucin =[
 "Isih tetep bertahan karo wong sing isone mung ngelarani kowe? Kuwi jenenge sayang? Opo ora iso golek sing luwih seko kuwi?"
 ]
 
-exports.katahai =["Halo","halo","Hallo","hallo","Hai","hai","Moshi moshi","moshi moshi","Kirara","kirara"]
+exports.katahai =["Halo","halo","Hallo","hallo","Hai","hai","Moshi moshi","moshi moshi","Alyaa","alyaa","Alya","Alya"]
 
 exports.katamalem =[
 "Selamat malam","selamat malam","Malam","malam","Malem","malem","oyasumi","Oyasumi",
@@ -187,7 +187,7 @@ exports.katasore =[
 
 
 exports.katalopyou =[
-"I love u","i love u","Love u","love u","Love u kirara"
+"I love u","i love u","Love u","love u","Love u Alyaa"
 ]
 
 exports.tekssalah =[
@@ -196,10 +196,10 @@ exports.tekssalah =[
 "Hampir","Dikit lagi","Bukan bukan","Yah salah",
 "Yahaha salah","Bukan itu","No!",
 "Horeeeee!\nEh salah bukan itu","Asik salah",
-"Masih salah 😎","Bukan itu bambang"
+"Masih salah 🗿","Udh salah masih ngelunjak 🗿"
 ]
 
-exports.badud =["kirara","Kirara","bot","Bot"]
+exports.badud =["Alyaa","alyaa","Alya","alya,"bot","Bot"]
 
 exports.ohayo =["pagi",
 "Pagi",
